@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
 main{
-    width: 200px;
-    height: 20px;
+    width: 150px;
+    height: 150px;
     background-color: black;
   }
-  span{
+  p{
     color: white;
     margin-left: 32px;
     padding: 10px;
